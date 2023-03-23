@@ -1,5 +1,5 @@
 
-  # Sample Readme
+  # Fernando's Pro Readme Generator
 
   ##  
   ### 
@@ -13,20 +13,20 @@
   ### 6 [Questions](#questions)
 
  ### Description:
-  ###  Sample readme generated for project video.
+  ###  .
 
   ## Installation:
   ### You must install the following depencencies for this application:
-  ### npm i, npm run develop, etc
+  ### .
 
   ## Usage:
-  ### Some knowledge of Node.js, as well as inquirer, and installing dependencies.
+  ### Inquirer knowledge, node js, package dependencies
 
   ## Contributing:
-  ### Reach out to Repository Owner for suggestions, comments, or additions.
+  ### Reach out to Repository owner for suggestions, comments.
 
   ## Tests:
-  ### npm run test
+  ### N/A
 
   ## Questions?
   ### If you have questions regarding the repo please contact me at:
