@@ -37,10 +37,10 @@ THEN I am taken to the corresponding section of the README
   ### https://drive.google.com/file/d/13HQHXAdQiFeXFPYJtZveUYpXvz4I9eIS/view
 
 ## Sample Readme:
-### ![image](https://user-images.githubusercontent.com/113961091/227115608-abf094f5-ec46-4f85-952f-acc522291887.png)
+### ![image](https://user-images.githubusercontent.com/113961091/227115714-c2e4f7c4-f8ec-4b95-abd5-d6ddb83cb6da.png)
 
 ## Screenshots of Questions.
-### <!img src="Fernando-s-Pro-Readme-Generator\Develop\Assets\Screenshot 2023-03-22 224413.png">
+### ![image](https://user-images.githubusercontent.com/113961091/227115608-abf094f5-ec46-4f85-952f-acc522291887.png)
 
 ## Contributing:
   ### Reach out to Repository owner for suggestions, comments.
