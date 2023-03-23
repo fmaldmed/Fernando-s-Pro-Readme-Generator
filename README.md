@@ -37,10 +37,10 @@ THEN I am taken to the corresponding section of the README
   ### https://drive.google.com/file/d/13HQHXAdQiFeXFPYJtZveUYpXvz4I9eIS/view
 
 ## Sample Readme:
-### Fernando-s-Pro-Readme-Generator\Develop\Assets\Screenshot 2023-03-22 224435.png
+### ![alt text](Fernando-s-Pro-Readme-Generator\Develop\Assets\Screenshot 2023-03-22 224435.png)
 
 ## Screenshots of Questions.
-### Fernando-s-Pro-Readme-Generator\Develop\Assets\Screenshot 2023-03-22 224413.png
+### ![alt text](Fernando-s-Pro-Readme-Generator\Develop\Assets\Screenshot 2023-03-22 224413.png)
 
 ## Contributing:
   ### Reach out to Repository owner for suggestions, comments.
